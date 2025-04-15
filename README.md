@@ -77,6 +77,6 @@ This project is open source under the [MIT License](LICENSE). Feel free to use, 
 
 If you have any questions, issues, or suggestions, please feel free to:
 - Open an issue in this repository.
-- Contact the maintainer at [your_email@example.com](mailto:your_email@example.com).
+- Contact the maintainer at [your_email@example.com](mailto:ihor.haivan@gmail.com).
 
 Happy coding and showcasing your professional achievements!
